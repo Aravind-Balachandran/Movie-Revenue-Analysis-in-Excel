@@ -1,4 +1,4 @@
-### Excel Data Analysis and Visualization
+### Movie Revenue Dashboard in Excel
 This project involves working with an Excel dataset to perform various tasks, such as formatting the table to make it look more professional, aggregating data, creating charts, and using Pivot Tables to summarize data. The aim of this project is to demonstrate proficiency in working with Excel and performing common data analysis tasks.
 
 #### Dataset
