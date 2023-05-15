@@ -1,4 +1,4 @@
-### Movie Revenue Dashboard in Excel
+### Movie Revenue Analysis in Excel
 The aim of the project is to analyze a dataset containing information about movies.
 
 #### Dataset
