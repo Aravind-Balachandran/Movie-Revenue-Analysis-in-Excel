@@ -1,7 +1,7 @@
 ### Movie Revenue Analysis in Excel
 The aim of this project is to demonstrate proficiency in working with Excel by performing the following data analysis tasks:
 1. Make the table look more professional; presentable to the business
-2. Create Column and Row Total
+2. Create a Column Total and Row Total
 3. Create an Average, Min and Max column
 4. Create a month over month column for the latest month
 5. Conditional format the MoM column
