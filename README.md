@@ -1,28 +1,27 @@
 ### Movie Revenue Analysis in Excel
-The aim of the project is to analyze a dataset containing information about movies.
+The aim of this project is to demonstrate proficiency in working with Excel by performing the following data analysis tasks:
+1. Make the table look more professional; presentable to the business
+2. Create Column and Row Total
+3. Create an Average, Min and Max column
+4. Create a month over month column for the latest month
+5. Conditional format the MoM column
+6. Sort the data by Totals; descending
+7. Create a new column that has “above average” or “below average” text depending on the Total value
+8. Join the Distributor from part 2. This new column should be second (next to movie)
+9. Create a pivot table showing the sum and average values for distributors
+10. Create a horizontal bar chart showing the totals by Movie
+11. Create a vertical bar chart showing the average value by Genre
+12. Create a pie chart showing the average value by Distributor
 
-#### Dataset
-The dataset used for this project is an Excel file containing information about movies, including the movie name, distributor, genre, and monthly revenue for each movie over a period of several months.
+#### Getting Started
+To get started with this project, you will need the following:
+- Microsoft Excel
+- Dataset
 
-#### Requirements
-To replicate this project, you will need a working copy of Microsoft Excel.
-
-#### Instructions
-The instructions for replicating this project are as follows:
-
-1. Open the Excel file containing the dataset.
-2. Format the table to make it look more professional, including adding column headings, adjusting column widths, and applying a table style.
-3. Create column and row totals for the revenue data using the SUM function.
-4. Create an Average, Min, and Max column for the revenue data using the appropriate functions.
-5. Create a Month over Month column for the latest month using the appropriate formulas.
-6. Conditional format the Month over Month column to highlight positive and negative changes using a color scale.
-7. Sort the data by Totals in descending order.
-8. Create a new column that displays "Above Average" or "Below Average" depending on whether the Total value.
-9. Join the Distributor column from part 2 with the existing table. This new column should be second (next to the Movie column).
-10. Create a Pivot Table that shows the Sum and Average revenue values for each distributor.
-11. Create a horizontal bar chart that shows the Total revenue values for each movie.
-12. Create a vertical bar chart that shows the Average revenue values for each genre.
-13. Create a pie chart that shows the Average revenue values for each distributor.
+#### Project Structure
+The project is structured as follows:
+- Dataset: contains the data for the project.
+- Movie Revenue Analysis: contains the completed project.
 
 #### Conclusion
-This project demonstrates proficiency in common data analysis tasks using Microsoft Excel, including formatting tables, aggregating data, using Pivot Tables to summarize data, and creating charts to visualize data.
+This project has demonstrated several common data analysis tasks using Microsoft Excel, including formatting tables, aggregating data, using Pivot Tables to summarize data, and creating charts to visualize data. By completing these tasks, you have gained valuable experience in working with Excel and are better equipped to analyze and present data in a professional manner.
